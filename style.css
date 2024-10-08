@@ -1,6 +1,10 @@
 body {
   background-color: #f9f7fe;
   font-family: sans-serif;
+  background-image: url('worldimage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
